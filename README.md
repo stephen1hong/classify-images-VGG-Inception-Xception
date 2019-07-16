@@ -5,6 +5,6 @@
  
  * step 2: define an auxiliary function to load & convert each image
  
- * define an auxiliary function for classifying image and prediction and display rank-5 predictions
+ * step 3: define an auxiliary function for classifying image and prediction and display rank-5 predictions
  
  
